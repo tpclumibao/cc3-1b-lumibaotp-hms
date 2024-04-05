@@ -1,0 +1,14 @@
+D:\Coding Related\Hms\Hms\bin\Debug\net8.0\Hms.exe
+D:\Coding Related\Hms\Hms\bin\Debug\net8.0\Hms.deps.json
+D:\Coding Related\Hms\Hms\bin\Debug\net8.0\Hms.runtimeconfig.json
+D:\Coding Related\Hms\Hms\bin\Debug\net8.0\Hms.dll
+D:\Coding Related\Hms\Hms\bin\Debug\net8.0\Hms.pdb
+D:\Coding Related\Hms\Hms\obj\Debug\net8.0\Hms.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding Related\Hms\Hms\obj\Debug\net8.0\Hms.AssemblyInfoInputs.cache
+D:\Coding Related\Hms\Hms\obj\Debug\net8.0\Hms.AssemblyInfo.cs
+D:\Coding Related\Hms\Hms\obj\Debug\net8.0\Hms.csproj.CoreCompileInputs.cache
+D:\Coding Related\Hms\Hms\obj\Debug\net8.0\Hms.dll
+D:\Coding Related\Hms\Hms\obj\Debug\net8.0\refint\Hms.dll
+D:\Coding Related\Hms\Hms\obj\Debug\net8.0\Hms.pdb
+D:\Coding Related\Hms\Hms\obj\Debug\net8.0\Hms.genruntimeconfig.cache
+D:\Coding Related\Hms\Hms\obj\Debug\net8.0\ref\Hms.dll
